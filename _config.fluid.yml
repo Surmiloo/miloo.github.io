@@ -692,7 +692,7 @@ post:
 # Based on GitHub Issues
 # See: https://utteranc.es
 utterances:
-  repo: Surmiloo/surmiloo.github.io
+  repo: imiloo/imiloo.github.io
   issue_term: title
   label: utterances
   theme: github-light
@@ -904,7 +904,7 @@ about:
   icons:
     # - { class: "iconfont icon-gitlab-fill", link: "https://gitlab.com/imiloo", tip: "GitLab" }
     - { class: "iconfont icon-github-fill", link: "https://github.com/imiloo", tip: "GitHub" }
-    - { class: "icon-gitee-fill", link: "https://gitee.com/imiloo", tip: "Gitee" }
+    - { class: "码云 icon-gitee-fill", link: "https://gitee.com/imiloo", tip: "Gitee" }
     - { class: "iconfont icon-bilibili", link: "https://space.bilibili.com/9135331", tip: "bilibili" }
     # - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
     # - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
