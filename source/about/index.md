@@ -6,7 +6,7 @@ layout: about
 
 # 欢迎来到 miloo 的博客
 
-miloo, 信息安全研究员。  
+miloo, 网络安全从业人员。  
 
 热爱开源文化，主要使用操作系统为gentoo、archlinux，解决问题请联系我。  
 
