@@ -457,7 +457,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/shouye.jpg
+  banner_img: /img/bg.jpg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -529,7 +529,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/article.jpg
+  banner_img: /img/bg.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -832,7 +832,7 @@ cusdis:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/archive.jpg
+  banner_img: /img/bg.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -844,7 +844,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/fenlei.jpg
+  banner_img: /img/bg.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -874,7 +874,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/biaoqian.jpg
+  banner_img: /img/bg.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -892,7 +892,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/aboutme.jpg
+  banner_img: /img/bg.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle: ABOUT ME 
@@ -902,9 +902,9 @@ about:
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
-    # - { class: "iconfont icon-gitlab-fill", link: "https://gitlab.com/imiloo", tip: "GitLab" }
+    - { class: "iconfont icon-gitlab-fill", link: "https://gitlab.com/imiloo", tip: "GitLab" }
     - { class: "iconfont icon-github-fill", link: "https://github.com/imiloo", tip: "GitHub" }
-    - { class: "iconfont icon-gitee-fill", link: "https://gitee.com/imiloo", tip: "Gitee" }
+    # - { class: "iconfont icon-gitee-fill", link: "https://gitee.com/imiloo", tip: "Gitee" }
     - { class: "iconfont icon-bilibili", link: "https://space.bilibili.com/9135331", tip: "bilibili" }
     # - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
     # - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
