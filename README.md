@@ -1,6 +1,5 @@
 ## Welcome to miloo's blog
 
-### [gitee博客地址(国内用户点击此处)](https://imiloo.gitee.io)  
 ### [gitlab博客地址(国内用户点击此处)](https://imiloo.gitlab.io) 
 ### [github博客地址](https://imiloo.github.io)
 
