@@ -6,7 +6,7 @@ layout: about
 
 ## 欢迎来到 miloo 的博客
 
-miloo, 菜鸟黑客一枚。
+miloo
 
 热爱开源文化，linux 爱好者，解决问题请联系我。
 
